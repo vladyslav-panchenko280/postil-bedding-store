@@ -25,7 +25,6 @@ Used technologies:
 - MongoDB
 - Node.js
 - Express
-- SCSS
 - JavaScript(ES6+)
 - HTML5
 
