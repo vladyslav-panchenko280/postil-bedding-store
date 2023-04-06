@@ -1,5 +1,7 @@
 # Postil Bedding
 
+ <img display="inline" src="./readme_assets/main.png" width="50%">
+
 Internet Shop of goods for home comfort
 
 ## Main features
@@ -23,6 +25,8 @@ Used technologies:
 - MongoDB
 - Node.js
 - Express
+- JavaScript(ES6+)
+- HTML5
 
 ## Running the local server
 
@@ -36,3 +40,13 @@ Used technologies:
 2. `cd client`
 3. `npm install` or `yarn install`
 4. `npm run start` or `yarn start`
+
+### Gallery
+<div align="center" display="flex">
+  <img display="inline" src="./readme_assets/shop.png" width="50%">
+  <img display="inline" src="./readme_assets/blog.png" width="50%">
+  <img display="inline" src="./readme_assets/login.png" width="50%">
+  <img display="inline" src="./readme_assets/contacts.png" width="50%">
+  <img display="inline" src="./readme_assets/about.png" width="50%">
+</div>
+
